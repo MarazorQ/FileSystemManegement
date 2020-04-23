@@ -1,0 +1,11 @@
+C:\Users\Oleg\source\repos\filesys\filesys\bin\Debug\netcoreapp3.0\filesys.exe
+C:\Users\Oleg\source\repos\filesys\filesys\bin\Debug\netcoreapp3.0\filesys.deps.json
+C:\Users\Oleg\source\repos\filesys\filesys\bin\Debug\netcoreapp3.0\filesys.runtimeconfig.json
+C:\Users\Oleg\source\repos\filesys\filesys\bin\Debug\netcoreapp3.0\filesys.runtimeconfig.dev.json
+C:\Users\Oleg\source\repos\filesys\filesys\bin\Debug\netcoreapp3.0\filesys.dll
+C:\Users\Oleg\source\repos\filesys\filesys\bin\Debug\netcoreapp3.0\filesys.pdb
+C:\Users\Oleg\source\repos\filesys\filesys\obj\Debug\netcoreapp3.0\filesys.csprojAssemblyReference.cache
+C:\Users\Oleg\source\repos\filesys\filesys\obj\Debug\netcoreapp3.0\filesys.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\filesys\filesys\obj\Debug\netcoreapp3.0\filesys.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\filesys\filesys\obj\Debug\netcoreapp3.0\filesys.dll
+C:\Users\Oleg\source\repos\filesys\filesys\obj\Debug\netcoreapp3.0\filesys.pdb
